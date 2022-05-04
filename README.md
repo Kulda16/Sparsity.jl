@@ -1,6 +1,6 @@
 # Sparsity.jl
 Repository with Julia code used in Master's Thesis.
-All script are available on \texttt{master branch}.
+All script are available on master branch.
 
 # FIRST EXPERIMENT - Sparse Regression, Sparse Regression L1, v_optimizer
 
