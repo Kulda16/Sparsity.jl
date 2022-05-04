@@ -1,6 +1,7 @@
 # Sparsity.jl
 Repository with Julia code used in Master's Thesis.
 All script are available on master branch.
+Written for $\texttt{Julia 1.6}$ version.
 
 ## Cloning from Master Branch
 ```
