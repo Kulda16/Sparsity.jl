@@ -3,8 +3,10 @@ Repository with Julia 1.6 version code used in Master's Thesis.
 Feel free to clone & try!
 
 ## Cloning from Master Branch
+
+Put the task into your Git Bash or Git Desktop.
 ```
-git clone --branch master https://github.com/Kulda16/Sparsity.jl
+git clone https://github.com/Kulda16/Sparsity.jl
 ```
 
 ## FIRST EXPERIMENT - sparse_regression.jl, sparse_regression_l1_pareto.jl, v_optimizer.jl
