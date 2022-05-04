@@ -2,7 +2,7 @@
 Repository with Julia 1.6 version code used in Master's Thesis.
 Feel free to clone & try!
 
-## Cloning from Master Branch
+## Cloning Repository to Your Computer
 
 Put the task into your Git Bash or Git Desktop.
 ```
